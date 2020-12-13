@@ -1,6 +1,9 @@
 # Infotc1000-final-project
 ## by Ian McCormick
- *Hello*  **everyone**, I am a freshman student at the University of Missouri.  
+ *Hello*  **everyone**, I am a freshman student at the University of Missouri. 
+ 
+ I am planning to obtain some business degree. But, I am unsure of which one yet.
+ 
  I would like to share some of my coding experience with a project I created using python. This program will take users input for rate, time, initial position, and acceleration. Then the program will calculate the distance traveled.
  ```python
 def calculate():

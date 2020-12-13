@@ -122,7 +122,7 @@ main()
   
   [Remington 870](https://en.wikipedia.org/wiki/Remington_Model_870)
   
-  I have a few reasons for choosing these guns. The Colt M1911 and the AK-47 have a lot of historic value and are 2 of the most well known firearms. With the AK-47 being the most produced gun in the world. 
+  I have a few reasons for choosing these guns. The Colt M1911 and the AK-47 have a lot of historic value and are 2 of the most well known firearms. With the AK-47 being the most produced gun in the world. The Soviet made AK-47 is also a symbol of revolution it can even be found on the flag of Mozambique. The American Colt M1911 was also very important and saw a lot of usage from WW1 until the 1980s until NATO called for American to have their armed forces use the M9 Beretta instead. These guns are for recreational purpsoes as I love to go to the range and shoot it is very fun and I would recommend it to anyone.
   
   
   ### TV Shows/Entertainment

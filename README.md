@@ -88,8 +88,10 @@ main()
 
  I would also like to share a bit about myself.
  ### Hobbies
+ 
+ 
  #### Video Games
- I love to play video games. Here are some of my favorite games:
+ I love to play video games. I have played them since I was a child. Starting with website flash games and now I currently play on my Playstation 4.Here are some of my favorite games:
  
  - Red Dead Redemption 
  - Red Dead Redemption 2
@@ -122,7 +124,11 @@ main()
   
   [Remington 870](https://en.wikipedia.org/wiki/Remington_Model_870)
   
-  I have a few reasons for choosing these guns. The Colt M1911 and the AK-47 have a lot of historic value and are 2 of the most well known firearms. With the AK-47 being the most produced gun in the world. The Soviet made AK-47 is also a symbol of revolution it can even be found on the flag of Mozambique. The American Colt M1911 was also very important and saw a lot of usage from WW1 until the 1980s until NATO called for American to have their armed forces use the M9 Beretta instead. These guns are for recreational purpsoes as I love to go to the range and shoot it is very fun and I would recommend it to anyone.
+  I have a few reasons for choosing these guns. The Colt M1911 and the AK-47 have a lot of historic value and are 2 of the most well known firearms. With the AK-47 being the most produced gun in the world. The Soviet made AK-47 is also a symbol of revolution it can even be found on the flag of Mozambique. The American Colt M1911 was also very important and saw a lot of usage from WW1 until the 1980s until NATO called for American to have their armed forces use the M9 Beretta instead. I choose the Remington 870 because I feel that it is a very good choice for home defense. Any home intruder will be instantly scared off by the racking of this gun. These guns are for recreational purpsoes as I love to go to the range and shoot it is very fun and I would recommend it to anyone. But they are also for safety/personal defense.
+  
+  
+  
+  
   
   
   ### TV Shows/Entertainment
@@ -130,15 +136,26 @@ main()
   
   [MrBeast](https://www.youtube.com/user/MrBeast6000)
   
+  MrBeast whom you might have a good chance of knowing already is a philanthropist who gives away a lot of money through challenges and also has very other entertaining videos on his channel.
+  
   [Luna](https://www.youtube.com/user/AustinFFA)
+  
+  I've watched him for a while he does storytime videos about his life with gameplay in the background.
   
   [Brewstew](https://www.youtube.com/user/brewstewfilms)
   
+  This guy tells stories about his life, but has it in a crude animated formant. His sense of humor is very funny.
+  
   [Poofesure](https://www.youtube.com/user/Poofesure) 
+ 
+ This guy runs a gaming channel and he is very funny because whenever he does poorly (which is pretty often) he will rage and scream and it is very entertaining to watch.
+ 
+ 
+ 
  
  ## Other things to know 
  
- I am learning Chinese and have been since middle school. Besides Chinese, I also love to learn about other countries and cultures in general. I find learning about other cultures/countries to be very intriguing and it also allows me to have a different perspective on America.
+ I am learning Chinese and have been since middle school. Besides Chinese, I also love to learn about other countries and cultures in general. I find learning about other cultures/countries to be very intriguing and it also allows me to have a different perspective on America. And just like anyone else I love to have fun with my friends.
   
   
   

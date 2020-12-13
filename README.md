@@ -57,6 +57,35 @@ main()
 
 
  ```
+ Here is another project that I did using python. This project used turtle graphics to draw a random image. I had mine draw lines in random directions and using multiple different colors
+ 
+ ```Python
+ import random 
+from turtle import Turtle
+def recursive_random(turtle, angle, length):
+    colors = ["green", "red", "blue", "yellow","purple"]
+    color = random.choice(colors)
+    turtle.color(color)
+    turtle.right(angle)
+    turtle.forward(length)
+    length = length + 2
+    angle = angle + 56
+    if (length > 0):
+        recursive_random(turtle, angle, length)
+
+    
+
+def main():
+    ANIMATION_SPEED = 0
+    turtle = Turtle()
+    turtle.speed(ANIMATION_SPEED)
+    recursive_random(turtle, 0, 73)
+    
+    
+main()
+
+```
+
  I would also like to share a bit about myself.
  ### Hobbies
  #### Video Games

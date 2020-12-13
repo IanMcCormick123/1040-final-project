@@ -98,6 +98,7 @@ main()
   
   ### TV Shows/Entertainment
   My favorite tv shows are South Park and Family Guy. These shows always leave me laughing at their ridiculous shock humor. Eric Cartman is my favorite character from South Park. He is a manipulative mastermind who always gets what he wants. He constantly uses everyone around him to get what he wants and he is very entertaining to watch. Peter Griffin is my favorite character from Family Guy. He is very funny and always has crazy shenanigans that gets him and his friends/family in trouble. I also love Family Guy for their infamous cutaway gags. Besides TV I also love to watch Youtube. I will leave some of my favorite channels below.
+  
   [MrBeast](https://www.youtube.com/user/MrBeast6000)
   
   [Luna](https://www.youtube.com/user/AustinFFA)
@@ -106,6 +107,9 @@ main()
   
   [Poofesure](https://www.youtube.com/user/Poofesure) 
  
+ ## Other things to know 
+ 
+ I am learning Chinese and have been since middle school. Besides Chinese, I also love to learn about other countries and cultures in general. I find learning about other cultures/countries to be very intriguing and it also allows me to have a different perspective on America.
   
   
   

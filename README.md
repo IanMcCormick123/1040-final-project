@@ -80,4 +80,4 @@ main()
   ### Guns
   I am very enthusiastic about guns, gun history, as well as our second amendment. Before I came to Mizzou I shot at ranges back home. Once I have my own place I can hopefully start buying my own guns. I have a list of firearms I want to own.
   
-  ![Colt M1911A1 pistol](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gunsinternational.com%2Fguns-for-sale-online%2Fpistols%2Fcolt-pistols---1911-pre-45%2Fcolt-1911a1--u-s--army--45-acp--1944.cfm%3Fgun_id%3D101069573&psig=AOvVaw0lRYmtNxgt4Y2JxZFka0xV&ust=1607936800747000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCPDl6cTNyu0CFQAAAAAdAAAAABAo)
+  ![Colt M1911A1 pistol!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AColt_1911A1_WW2_(6971785559).jpg&psig=AOvVaw2iri8nlSBmBhykclISCB9L&ust=1607937180736000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCPjSh_bOyu0CFQAAAAAdAAAAABAD)

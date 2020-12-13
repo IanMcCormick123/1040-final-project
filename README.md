@@ -72,7 +72,11 @@ main()
  - Call Of Duty Black Ops Cold War  
  I like to play a mix of Story based games as well as multiplayer games. I really love the story and protagonists in the above games. Red dead Redemption 1 and 2 as well as Grand Theft Auto IV are made by Rockstar games. I will leave a link to their website here. [Rockstar Games](https://www.rockstargames.com) 
  
- My favorite game by Rockstar is Red Dead Redemption 2. I won't spoil anything, but its about a gang of outlaws in America during 1899. It serves as a prequel to the first Red Dead Redemption. It is an amazing story with great gameplay with hours of side quests and challenges as well as online mode.
+ My favorite game by Rockstar is Red Dead Redemption 2. I won't spoil anything, but its about a gang of outlaws in America during 1899. It tells the story of Arthur Morgan and later John Marston and the gang to which they call their family. It serves as a prequel to the first Red Dead Redemption. It is an amazing story with great gameplay with hours of side quests and challenges as well as online mode.
+ 
+ Compared to Rockstar games the mafia series is less known, but its plot is amazing. The first game which came out in 2000 was recently remastered a few months ago. It tells the story of Italian immigrant Tommy Angelo. A cab driver in 1930's lost heaven. (a fictional American city based off of Chicago) A straight edge man at first, but after a run in with the mob he realizes the rewards of organized crime are too big to ignore.
+ 
+ Battlefield 1 is a multiplayer first person shooter set during World War One. This gameplay is amazing and is my favorite multiplayer game of all time.
   
   
   
@@ -81,11 +85,26 @@ main()
   
   
   ### Guns
-  I am very enthusiastic about guns, gun history, as well as our second amendment. Before I came to Mizzou I shot at ranges back home. Once I have my own place I can hopefully start buying my own guns. I have a list of firearms I want to own. I will leave links to images of these guns and their history below.
+  I am very enthusiastic about guns, gun history, as well as our second amendment. Before I came to Mizzou I shot at ranges back home. Once I have my own place I can hopefully start buying my own guns. I have a list of guns I want to own. I will leave links to images of these guns and their history below.
   
   [Colt M1911](https://en.wikipedia.org/wiki/M1911_pistol)
+  
   [AK-47](https://en.wikipedia.org/wiki/AK-47)
+  
   [Remington 870](https://en.wikipedia.org/wiki/Remington_Model_870)
+  
+  I have a few reasons for choosing these guns. The Colt M1911 and the AK-47 have a lot of historic value and are 2 of the most well known firearms. With the AK-47 being the most produced gun in the world. 
+  
+  
+  ### TV Shows/Entertainment
+  My favorite tv shows are South Park and Family Guy. These shows always leave me laughing at their ridiculous shock humor. Eric Cartman is my favorite character from South Park. He is a manipulative mastermind who always gets what he wants. He constantly uses everyone around him to get what he wants and he is very entertaining to watch. Peter Griffin is my favorite character from Family Guy. He is very funny and always has crazy shenanigans that gets him and his friends/family in trouble. I also love Family Guy for their infamous cutaway gags. Besides TV I also love to watch Youtube. I will leave some of my favorite channels below.
+  [MrBeast](https://www.youtube.com/user/MrBeast6000)
+  
+  [Luna](https://www.youtube.com/user/AustinFFA)
+  
+  [Brewstew](https://www.youtube.com/user/brewstewfilms)
+  
+  [Poofesure](https://www.youtube.com/user/Poofesure) 
  
   
   

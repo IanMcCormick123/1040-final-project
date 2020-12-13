@@ -80,3 +80,4 @@ main()
   ### Guns
   I am very enthusiastic about guns, gun history, as well as our second amendment. Before I came to Mizzou I shot at ranges back home. Once I have my own place I can hopefully start buying my own guns. I have a list of firearms I want to own.
   
+  ![Colt M1911A1 pistol](https://en.wikipedia.org/wiki/M1911_pistol#/media/File:M1911A1.png)

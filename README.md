@@ -1,7 +1,7 @@
 # Infotc1000-final-project
 ## by Ian McCormick
  *Hello*  **everyone**, I am a freshman student at the University of Missouri.  
- I would like to share some of my coding experience with a project I created using python. This program will take users input for rate, time, initial position, and acceleration. Then the program will calculate the 
+ I would like to share some of my coding experience with a project I created using python. This program will take users input for rate, time, initial position, and acceleration. Then the program will calculate the distance traveled.
  ```python
 def calculate():
     
@@ -57,6 +57,7 @@ main()
 
 
  ```
+ I would also like to share a bit about myself.
  ### Hobbies
  #### Video Games
  I love to play video games. Here are some of my favorite games:
@@ -69,7 +70,9 @@ main()
  - Mafia 2
  - Mafia 3
  - Call Of Duty Black Ops Cold War  
- I like to play a mix of Story based games as well as multiplayer games. I really love the story and protagonists in the above games. Red dead Redemption 1 and 2 as well as Grand Theft Auto IV are made by Rockstar games. I will leave a link to their website here. [Rockstar Games](https://www.rockstargames.com)
+ I like to play a mix of Story based games as well as multiplayer games. I really love the story and protagonists in the above games. Red dead Redemption 1 and 2 as well as Grand Theft Auto IV are made by Rockstar games. I will leave a link to their website here. [Rockstar Games](https://www.rockstargames.com) 
+ 
+ My favorite game by Rockstar is Red Dead Redemption 2. I won't spoil anything, but its about a gang of outlaws in America during 1899. It serves as a prequel to the first Red Dead Redemption. It is an amazing story with great gameplay with hours of side quests and challenges as well as online mode.
   
   
   
@@ -83,7 +86,8 @@ main()
   [Colt M1911](https://en.wikipedia.org/wiki/M1911_pistol)
   [AK-47](https://en.wikipedia.org/wiki/AK-47)
   [Remington 870](https://en.wikipedia.org/wiki/Remington_Model_870)
-  [![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+ 
+  
   
   
 

@@ -135,7 +135,7 @@ main()
   
   
   ### TV Shows/Entertainment
-  My favorite tv shows are South Park and Family Guy. These shows always leave me laughing at their ridiculous shock humor. Eric Cartman is my favorite character from South Park. He is a manipulative mastermind who always gets what he wants. He constantly uses everyone around him to get what he wants and he is very entertaining to watch. Peter Griffin is my favorite character from Family Guy. He is very funny and always has crazy shenanigans that gets him and his friends/family in trouble. I also love Family Guy for their infamous cutaway gags. Besides TV I also love to watch Youtube. I will leave some of my favorite channels below.
+  My favorite tv shows are South Park and Family Guy. These shows always leave me laughing at their ridiculous shock humor. Eric Cartman is my favorite character from South Park. He is a manipulative mastermind who always gets what he wants. He constantly uses everyone around him to get what he wants and he is very entertaining to watch. Peter Griffin is my favorite character from Family Guy. He is very funny and always has crazy shenanigans that gets him and his friends/family in trouble. I also love Family Guy for their infamous cutaway gags.Both shows have been around for a long time. South park has been running since 1997 and Family Guy has been running since 1999. Besides TV I also love to watch Youtube. I will leave some of my favorite channels below.
   
   [MrBeast](https://www.youtube.com/user/MrBeast6000)
   

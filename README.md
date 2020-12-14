@@ -88,13 +88,58 @@ def main():
 main()
 
 ```
+Lastly, this python asks the user for sq of wall space to be painted and the price of paint per gallon. Then it will calculate the total cost including paint and labor.
 
+```python
+import math
+print("This program asks for sq of wall space to be painted and the price of paint per gallon")
+do_calculation = True
+while(do_calculation):
+    while (True):
+        try:
+            space = float(input("\nEnter the square feet of wall space to be painted: "))
+            if(space < 0):
+                print("negative values aren't allowed")
+                continue
+        except ValueError:
+            print("The value entered is invalid please enter numerical values only");
+        else:
+            break
+        
+    while (True):
+        try:
+            price = float(input("\nEnter the price of paint per gallon: "))
+            if(price < 0):
+                print("negative values aren't allowed")
+                continue
+        except ValueError:
+            print("The value entered is invalid please enter numerical values only");
+        else:
+            break
+    p = space/350
+    labor = 62.25 * (p * 6)
+    gal = math.ceil(p)
+    paint = price * gal
+    cost = labor + paint
+
+    print("Total cost of labor: $",format(labor,".2f"))
+    print("Total cost of paint: $", paint)
+    print("gallons of paint required", gal)
+    print("Hours of Labor required", format(p * 6,".1f"))
+    print("Total cost of paint job: $", cost)
+
+    another_calculation = input("\nDo you want to perform another calculation? (y/n): ")
+    if (another_calculation != "y"):
+        print("Goodbye")
+        
+        do_calculation = False
+```
  I would also like to share a bit about myself.
  ### Hobbies
  
  
  #### Video Games
- I love to play video games. I have played them since I was a child. Starting with website flash games and now I currently play on my Playstation 4.Here are some of my favorite games:
+ I love to play video games. I have played them since I was in elementary school. Starting with website flash games and now I currently play on my Playstation 4. And I will probably contiinue to play them for the rest of my life. Here are some of my favorite games:
  
  - Red Dead Redemption 
  - Red Dead Redemption 2
@@ -110,7 +155,7 @@ main()
  
  Compared to Rockstar games the mafia series is less known, but its plot is amazing. The first game which came out in 2000 was recently remastered a few months ago. It tells the story of Italian immigrant Tommy Angelo. A cab driver in 1930's lost heaven. (a fictional American city based off of Chicago) A straight edge man at first, but after a run in with the mob he realizes the rewards of organized crime are too big to ignore.
  
- Battlefield 1 is a multiplayer first person shooter set during World War One. This gameplay is amazing and is my favorite multiplayer game of all time.
+ Battlefield 1 is a multiplayer first person shooter set during World War One. The gameplay is amazing and is my favorite multiplayer game of all time.
   
   
   
